@@ -13,7 +13,8 @@ An adventure and memory sharing application. Made with: <br>
 <img width="75" alt="nextjs" src="https://github.com/smcghie/legasee/assets/26985349/ef23eaf8-2065-4697-81e4-a4c0be8c9520">
 
 <br>
-
+Live demo: https://legasee.online 
+Demo login: demo@demo.com/demo123
 Video demo: https://www.youtube.com/watch?v=Yfoqjg01fnY
 
 <br>
