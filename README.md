@@ -6,7 +6,7 @@ An adventure and memory sharing application. Made with: <br>
 <img width="100" alt="typeorm" src="https://github.com/smcghie/legasee/assets/26985349/197abac0-617d-483c-95de-4fbcd1746067">
 ![cf](https://github.com/smcghie/legasee/assets/26985349/4c95d78d-58d9-4c61-a311-8ebdc7f6a33a)
 <img width="75" alt="nextjs" src="https://github.com/smcghie/legasee/assets/26985349/97814ff5-d440-43d4-966f-19e19542e835">
-<img width="120" alt="nextjs" src="https://github.com/smcghie/legasee/assets/26985349/e5f26e63-b51e-441d-8757-441eb44916f5)">
+<img width="120" alt="s3" src="https://github.com/smcghie/legasee/assets/26985349/e5f26e63-b51e-441d-8757-441eb44916f5">
 <img width="120" alt="mb" src="https://github.com/smcghie/legasee/assets/26985349/1cb1d0e9-72d6-4a91-9724-db2481cdf78a">
 <img width="75" alt="aws" src="https://github.com/smcghie/legasee/assets/26985349/af9a07cd-02ec-49dd-94cc-10df95a880cb">
 <img width="75" alt="ts" src="https://github.com/smcghie/legasee/assets/26985349/f61b56d1-e40a-48a5-b4a8-ee7fb898147b">
